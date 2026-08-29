@@ -1,0 +1,60 @@
+/* CSS Generated Properties */
+.container{
+    display: block;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.custom-element {
+  color: #dbe1e1;
+  background-color: #111388;
+  background-image: url(./image/image.jpg);
+  font-family: 'Kantumruy Pro', sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  font-style: normal;
+  text-align: center;
+  text-decoration: none;
+  line-height: 1.6;
+  padding :20px;
+  margin: 20px;
+  border: 2px solid #cdd016;
+  border-radius: 20px;
+}
+    /* CSS Generated Properties */
+.custom-element-1 {
+  color: #cdd016;
+  background-color: #111388;
+    font-family: 'Kantumruy Pro', sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  font-style: normal;
+  text-align: center;
+  text-decoration: none;
+  line-height: 1.6;
+  margin: 20px;
+  padding :10px;
+  border: 2px solid #cdd016;
+  border-radius: 20px;
+}
+/* CSS Generated Properties */
+.custom-element-2 {
+  color: #cdd016;
+  background-color: #111388;
+  background-image: linear-gradient(45deg, #f43f5e, #38bdf8);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  font-family: 'Kantumruy Pro', sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  font-style: normal;
+  text-align: center;
+  text-decoration: none;
+  line-height: 1.6;
+  margin: 20px;
+  padding :20px;
+  border: 2px solid #cdd016;
+  border-radius: 20px;
+}
+
